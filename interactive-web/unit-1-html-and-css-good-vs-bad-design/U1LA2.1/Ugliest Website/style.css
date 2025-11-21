@@ -1,0 +1,44 @@
+
+body {
+  background-image: url("https://i.natgeofe.com/n/8e3af918-ba9a-4a31-8baf-f5b2244811e1/19991130_jab_cs9_163.jpg");
+}
+h2 {
+  color: #FFFFFF;
+}
+
+#pagetitle{
+  background-color: rgb(132, 81, 3);
+  text-align: center;
+  padding: 50px;
+  border: dotted;
+  border-width: 5px;
+  margin; 20px; 
+  color: #a1008e;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+#page{
+ background-color: limegreen;
+}
+#pagetext{
+   background-color: blue;
+   border: dotted;
+   color: #d8f024;
+}
+#pagepage{
+border: dotted;
+color: #913703;
+}
+#wordpage{
+color: #782f05;
+
+}
+#pageword{
+background-color: #748709;
+border: dotted;
+}
